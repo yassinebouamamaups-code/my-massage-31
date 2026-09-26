@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 160" role="img" aria-labelledby="title desc">
+  <title id="title">MY MASSAGE 31 — arbre de vie</title>
+  <desc id="desc">Logo monochrome : le nom MY MASSAGE 31 en arc au-dessus d’un arbre de vie inscrit dans un demi-cercle.</desc>
+  <defs>
+    <path id="name-arc" d="M 19,101 C 43,23 217,23 241,101"/>
+  </defs>
+  <text fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3">
+    <textPath href="#name-arc" startOffset="50%" text-anchor="middle">MY MASSAGE 31</textPath>
+  </text>
+  <path d="M14 137 A116 116 0 0 1 246 137 M14 137 H246" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round"/>
+  <g fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M130 139 C128 125 131 111 130 98 C129 86 130 75 131 65"/>
+    <path d="M130 126 C115 123 103 116 93 105 M130 119 C145 116 157 108 168 97 M130 108 C115 103 105 94 97 82 M130 101 C145 95 155 86 163 74 M130 88 C117 83 111 74 109 64 M131 83 C144 77 151 68 153 58 M129 96 C120 90 116 83 114 76 M132 93 C140 87 144 80 146 72"/>
+    <path d="M97 82 C88 83 81 80 75 73 M97 82 C93 73 94 66 98 59 M109 64 C101 59 98 52 100 45 M109 64 C117 60 121 54 122 47 M153 58 C161 56 167 50 169 43 M153 58 C150 50 152 43 157 37 M163 74 C172 74 179 70 184 64 M163 74 C164 65 161 58 156 53 M93 105 C84 106 77 102 71 97 M93 105 C89 113 91 120 96 125 M168 97 C177 97 184 92 189 86 M168 97 C171 106 168 113 162 118 M114 76 C106 74 101 70 98 64 M146 72 C154 69 159 64 162 58"/>
+  </g>
+  <g fill="#fff">
+    <ellipse cx="74" cy="72" rx="4.2" ry="9.5" transform="rotate(-48 74 72)"/>
+    <ellipse cx="98" cy="58" rx="4.1" ry="9.5" transform="rotate(18 98 58)"/>
+    <ellipse cx="100" cy="44" rx="4" ry="9" transform="rotate(-18 100 44)"/>
+    <ellipse cx="122" cy="46" rx="4" ry="9" transform="rotate(18 122 46)"/>
+    <ellipse cx="158" cy="36" rx="4" ry="9" transform="rotate(22 158 36)"/>
+    <ellipse cx="169" cy="42" rx="4" ry="9" transform="rotate(-22 169 42)"/>
+    <ellipse cx="156" cy="52" rx="4" ry="9" transform="rotate(-28 156 52)"/>
+    <ellipse cx="184" cy="63" rx="4" ry="9" transform="rotate(38 184 63)"/>
+    <ellipse cx="71" cy="96" rx="4" ry="9" transform="rotate(-48 71 96)"/>
+    <ellipse cx="96" cy="125" rx="4" ry="9" transform="rotate(-24 96 125)"/>
+    <ellipse cx="162" cy="118" rx="4" ry="9" transform="rotate(24 162 118)"/>
+    <ellipse cx="189" cy="85" rx="4" ry="9" transform="rotate(47 189 85)"/>
+    <ellipse cx="99" cy="63" rx="3.6" ry="8" transform="rotate(-28 99 63)"/>
+    <ellipse cx="162" cy="57" rx="3.6" ry="8" transform="rotate(28 162 57)"/>
+  </g>
+</svg>
